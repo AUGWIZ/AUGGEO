@@ -25,6 +25,14 @@
 
 # Visual Studio cache directory
 .vs/
+.vscode/
+.vsconfig
+
+# Jetbrains cache directory
+.idea/
+
+#Jetbrains DotSettings
+*.DotSettings
 
 # Gradle cache directory
 .gradle/
@@ -59,7 +67,6 @@ sysinfo.txt
 *.apk
 *.aab
 *.unitypackage
-*.unitypackage.meta
 *.app
 
 # Crashlytics generated file
